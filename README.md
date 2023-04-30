@@ -5,7 +5,7 @@ PIR-Inator is a motion detector with OLED Integrated, it display only icon, that
 
 ## Contents
 1. 1x Arduino Nano
-2. 1x OLED Display (White is recommended)
+2. 1x I2C OLED Display (White is recommended)
 3. Jumper Wires
 4. 1x PIR Sensor
 5. 1x 830-point Breadboard or 400-point Breadboard
