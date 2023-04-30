@@ -10,7 +10,7 @@ PIR-Inator is a motion detector with OLED Integrated, it display only icon, that
 4. 1x PIR Sensor
 5. 1x 830-point Breadboard or 400-point Breadboard
 5. 1x Breadboard Power Supply (Recommended)
-6. Battery or AC Power Suply
+6. Battery or AC Power SuPply
 
 ## Schematic
 this a schematic of PIR-Inator via Fritzing
