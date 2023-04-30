@@ -15,7 +15,7 @@ PIR-Inator is a motion detector with OLED Integrated, it display only icon, that
 ## Schematic
 this a schematic of PIR-Inator via Fritzing
 
-![schematic](https://raw.githubusercontent.com/WilloIzCitron/PIR-Inator/main/static/schem.png)
+![schematic](https://raw.githubusercontent.com/WilloIzCitron/PIR-Inator/main/schem.png)
 
 
 
