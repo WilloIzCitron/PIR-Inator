@@ -12,10 +12,10 @@ PIR-Inator is a motion detector with OLED display, it display only icon, thats v
 5. 1pcs Breadboard Power Supply (Recommended).
 6. Battery or AC Power Supply.
 
-## Schematic
-this a schematic of PIR-Inator via Fritzing.
+## Circuits
+this a circuit of PIR-Inator via Fritzing.
 
-![schematic](https://raw.githubusercontent.com/WilloIzCitron/PIR-Inator/main/schem.png)
+![circuit](https://raw.githubusercontent.com/WilloIzCitron/PIR-Inator/main/schem.png)
 
 
 
