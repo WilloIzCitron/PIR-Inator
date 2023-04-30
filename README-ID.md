@@ -13,9 +13,9 @@ PIR-Inator adalah sebuah pendeteksi gerakan dengan layar OLED, hanya menampilkan
 6. Battery or AC Power Supply.
 
 ## Sirkuit
-Ini adalah sirkuit dari PIR-Inator via Fritzing.
+Ini adalah sirkuit dari PIR-Inator
 
-![circuit](https://raw.githubusercontent.com/WilloIzCitron/PIR-Inator/main/schem.png)
+![circuit](https://raw.githubusercontent.com/WilloIzCitron/PIR-Inator/main/IMG_20230430_210600.jpg)
 
 
 
