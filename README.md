@@ -13,9 +13,9 @@ PIR-Inator is a motion detector with OLED display, it display only icon, thats v
 6. Battery or AC Power Supply.
 
 ## Circuits
-this a circuit of PIR-Inator via Fritzing.
+this a circuit of PIR-Inator.
 
-![circuit](https://raw.githubusercontent.com/WilloIzCitron/PIR-Inator/main/schem.png)
+![circuit](https://raw.githubusercontent.com/WilloIzCitron/PIR-Inator/main/IMG_20230430_210600.jpg)
 
 
 
